@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px;
+    background-color: #f5f5f5;
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.single-post {
+    padding: 13px 18px;
+    background-color: #fff;
+    margin: 5px -5px;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.14);
+    transition: all .25s ease-in-out;
+}
+
+.single-post img {
+    max-width: 140px;
+    height: 110px;
+    border-radius: 6px;
+}
+
+.single-post p {
+    margin: 7px 0;
+}
+
+.single-post:hover {
+    box-shadow: 0px 7px 30px 0px rgba(50, 50, 50, 0.51);
+}
+
+.white-side-block {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.14);
+}
